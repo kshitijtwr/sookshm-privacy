@@ -26,4 +26,4 @@ The app is not directed at children under 13.
 If this policy changes, the updated version and date will be published at this location.
 
 ## Contact
-tiwarikshitij@gmail.com
+sookshm.support@gmail.com
