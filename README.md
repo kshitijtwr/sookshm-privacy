@@ -1,6 +1,6 @@
 # Sookshm Privacy Policy
 
-_Last updated: 24 November 2026_
+_Last updated: 28 November 2026_
 
 Sookshm ("the app") compresses and resizes photos, signatures, PDFs and videos on your phone.
 
@@ -23,6 +23,7 @@ Only the services below receive any data from the app, and none of it is your fi
   - **Analytics** receives which screens are opened and general usage counts. It is switched off until you give consent where consent is required, and it never includes your files, file names or content.
   - **Cloud Messaging** delivers notifications from us (for example news about a new version). It uses a token that identifies the app on your phone, and your app language so we can send the right language. You can turn notifications off in Android settings at any time; the app asks for the permission once on Android 13 and later.
   See Google's privacy policy: https://policies.google.com/privacy and https://firebase.google.com/support/privacy
+- **Google ML Kit** cuts out the subject of a photo when you use Cutout in the editors. Your photos are processed on your phone and are not sent anywhere. ML Kit does send Google diagnostic and usage data, such as your phone model and Android version, the app's name and version, an identifier for this installation that is not meant to identify you or your device, performance figures and error codes. Google uses it for diagnostics and usage analytics. See https://developers.google.com/ml-kit/android-data-disclosure
 - Payments are processed by Google Play. The app never sees your payment details.
 
 Data sent to these services is encrypted in transit. We do not sell your data.
